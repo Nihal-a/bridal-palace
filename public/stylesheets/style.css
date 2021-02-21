@@ -1,8 +1,15 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+html,body{
+  font-family: 'Cormorant Garamond', serif !important;
+  background-color: #F8F8F8 !important;
+}
+.navbar{
+  background-color: #fff;
+  width: 100%;
+
 }
 
-a {
-  color: #00B7FF;
+.logo{
+  width: 60px;
+  height: 60px;
 }

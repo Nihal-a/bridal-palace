@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57.107" height="51.94" viewBox="0 0 57.107 51.94">
+  <g id="cart" transform="translate(-1742.007 -30.886)">
+    <g id="Icon_feather-shopping-bag" data-name="Icon feather-shopping-bag" transform="translate(1739.007 40)">
+      <path id="Path_1" data-name="Path 1" d="M10.249,3,4.5,10.665V37.493a3.833,3.833,0,0,0,3.833,3.833H35.16a3.833,3.833,0,0,0,3.833-3.833V10.665L33.244,3Z" transform="translate(0 0)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_2" data-name="Path 2" d="M4.5,9H38.993" transform="translate(0 1.665)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_3" data-name="Path 3" d="M27.33,15A7.665,7.665,0,0,1,12,15" transform="translate(2.081 3.33)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <path id="Icon_awesome-circle" data-name="Icon awesome-circle" d="M14.177.563A13.614,13.614,0,1,0,27.791,14.177,13.612,13.612,0,0,0,14.177.563Z" transform="translate(1769.823 31.823)" fill="#e20447" stroke="#707070" stroke-width="3"/>
+  </g>
+</svg>
